@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![skycoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=skycoop&count_private=truea&show_icons=true&theme=radical&custom_title=Personal%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![cooperbenson-qz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperbenson-qz&count_private=truea&show_icons=true&theme=radical&custom_title=Quizlet%20Stats)](https://github.com/anuraghazra/github-readme-stats)
